@@ -1,0 +1,4 @@
+class Blurb
+end
+
+# Output
