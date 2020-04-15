@@ -1,13 +1,24 @@
-# learn-ruby
+# README
 
-Learning to the Ruby language
+This README would normally document whatever steps are necessary to get the
+application up and running.
 
-## About
+Things you may want to cover:
 
-- [try.ruby-lang.org](https://try.ruby-lang.org/)
-  - Website for learning the Ruby language <https://github.com/ruby/TryRuby>
-  - --> <https://github.com/anoriqq/learn-ruby/tree/try.ruby-lang.org>
+* Ruby version
 
-- [rails](https://github.com/rails/rails)
-  - Ruby on Rails <https://rubyonrails.org/>
-  - --> <https://github.com/anoriqq/learn-ruby/tree/rails>
+* System dependencies
+
+* Configuration
+
+* Database creation
+
+* Database initialization
+
+* How to run the test suite
+
+* Services (job queues, cache servers, search engines, etc.)
+
+* Deployment instructions
+
+* ...
